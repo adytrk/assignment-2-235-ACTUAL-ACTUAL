@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e19b59-6674-481e-9a93-c18d9564c32d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/actual-assignment-2-hehe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/Data1000Movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/comments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/memory_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/domain/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/domain/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/home/home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/authentication/credentials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/home/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/news/articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/news/review_on_movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/Data1000Movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/comments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/news_articles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/e2e/test_web_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_domain_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_memory_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfolder/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hiOtBO658zOBRTSJt7nWzALqjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\actual assignment 2 hehe\myfolder\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.wsgi">
+    <configuration name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="actual-assignment-2-hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myfolder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myfolder/wsgi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_services.test_get_reviews_for_non_existent_movie" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="actual-assignment-2-hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myfolder/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_services.test_get_reviews_for_non_existent_movie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_domain_model.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="actual-assignment-2-hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myfolder/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myfolder/tests/unit/test_domain_model.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_memory_repository.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="actual-assignment-2-hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myfolder/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myfolder/tests/unit/test_memory_repository.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_web_app.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="actual-assignment-2-hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myfolder/tests/e2e" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myfolder/tests/e2e/test_web_app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wsgi" />
+        <item itemvalue="Python tests.pytest in test_memory_repository.py" />
+        <item itemvalue="Python tests.pytest in test_web_app.py" />
+        <item itemvalue="Python tests.pytest in test_domain_model.py" />
+        <item itemvalue="Python tests.pytest for test_services.test_get_reviews_for_non_existent_movie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e19b59-6674-481e-9a93-c18d9564c32d" name="Default Changelist" comment="" />
+      <created>1600490658077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600490658077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="306" key="#Notifications" timestamp="1603623066111">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="492" y="306" key="#Notifications/0.0.1504.963@0.0.1504.963" timestamp="1603623066111" />
+    <state x="93" y="93" width="1319" height="777" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603620313642">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="93" y="93" width="1319" height="777" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1504.963@0.0.1504.963" timestamp="1603620313642" />
+    <state x="260" y="316" key="FileChooserDialogImpl" timestamp="1603503167401">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="260" y="316" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1603503167401" />
+    <state x="443" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1600588257787" />
+    <state x="590" y="380" key="Github.ShareDialog" timestamp="1603623009831">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="590" y="380" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1603623009831" />
+    <state x="535" y="187" key="Github.UntrackedFilesDialog" timestamp="1603623051458">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="535" y="187" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1603623051458" />
+    <state width="1483" height="230" key="GridCell.Tab.0.bottom" timestamp="1603622346468">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="230" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1603622346468" />
+    <state width="1256" height="169" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600588259936" />
+    <state width="1483" height="230" key="GridCell.Tab.0.center" timestamp="1603622346468">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="230" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1603622346468" />
+    <state width="1256" height="169" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600588259936" />
+    <state width="1483" height="230" key="GridCell.Tab.0.left" timestamp="1603622346468">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="230" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1603622346468" />
+    <state width="1256" height="169" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600588259936" />
+    <state width="1483" height="230" key="GridCell.Tab.0.right" timestamp="1603622346468">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="230" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1603622346468" />
+    <state width="1256" height="169" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600588259936" />
+    <state x="84" y="178" key="SettingsEditor" timestamp="1603608754258">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="84" y="178" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1603608754258" />
+    <state x="361" y="92" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603523837211">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="361" y="92" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1504.963@0.0.1504.963" timestamp="1603523837211" />
+    <state x="93" y="93" width="1319" height="777" key="dock-window-1" timestamp="1603619585753">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="93" y="93" width="1319" height="777" key="dock-window-1/0.0.1504.963@0.0.1504.963" timestamp="1603619585753" />
+    <state x="692" y="156" width="587" height="801" key="find.popup" timestamp="1603617394364">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="692" y="156" width="587" height="801" key="find.popup/0.0.1504.963@0.0.1504.963" timestamp="1603617394364" />
+    <state x="791" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1603622982740">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="791" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1603622982740" />
+  </component>
+</project>
