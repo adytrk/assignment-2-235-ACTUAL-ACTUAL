@@ -1,59 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e19b59-6674-481e-9a93-c18d9564c32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/actual-assignment-2-hehe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/Data1000Movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/comments.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/data/users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/memory_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/adapters/repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/authentication/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/domain/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/domain/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/home/home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/news.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/news/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/authentication/credentials.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/news/articles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/news/review_on_movie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/templates/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/movies/utilities/utilities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/Data1000Movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/comments.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/news_articles.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/data/users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/e2e/test_web_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_domain_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_memory_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/tests/unit/test_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myfolder/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="25e19b59-6674-481e-9a93-c18d9564c32d" name="Default Changelist" comment="This is final final project!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1hiOtBO658zOBRTSJt7nWzALqjj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -183,7 +147,49 @@
       <option name="presentableId" value="Default" />
       <updated>1600490658077</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is final final project!">
+      <created>1603623292668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603623292668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is final final project!">
+      <created>1603623335279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603623335279</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is final final project!" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is final final project!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="306" key="#Notifications" timestamp="1603623066111">
